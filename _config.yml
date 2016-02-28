@@ -1,14 +1,29 @@
+name: Wayraps
+favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.4774436
+title: Way
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  lightness: 0
-  brandStrength: 1
   brandColors:
     - '#000000'
     - '#2F2F2F'
     - '#FFFFFF'
     - '#777777'
     - '#A2A2A2'
+  brandStrength: 1
+  lightness: 0
+  saturation: 1
   rhythmicContrast: 0.556928
-typography_spectrum: 0.4774436
-name: Wayraps
+purpose: []
